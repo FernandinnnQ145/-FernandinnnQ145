@@ -2,8 +2,8 @@
 
 Seja Bem vindo ao meu GITHUB
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinnnQ145&theme=gruvbox)](https://github.com/FernandinnnQ145/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinnnQ145&layout=compact&theme=gruvbox)](https://github.com/FernandinnnQ145/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinnnQ145&theme=great-gatsby)](https://github.com/FernandinnnQ145/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinnnQ145&layout=compact&theme=great-gatsby)](https://github.com/FernandinnnQ145/github-readme-stats)
 
  <h2>👨‍💻 MINHAS LINGUAGENS 👨‍💻</h2>
 <div style="display: inline_block"><br>
