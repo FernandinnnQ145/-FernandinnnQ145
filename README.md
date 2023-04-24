@@ -15,11 +15,4 @@ Seja Bem vindo ao meu GITHUB
  
 <div>
  
- <picture>
-  <source media="(prefers-color-scheme: orange)" srcset="https://raw.githubusercontent.com/FernandinnnQ145/FernandinnnQ145/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandinnnQ145/FernandinnnQ145/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandinnnQ145/FernandinnnQ145/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [FernandinnnQ145/snk](https://github.com/FernandinnnQ145
-/snk)_
+ 
