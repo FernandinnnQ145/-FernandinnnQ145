@@ -2,7 +2,8 @@
 
 Seja Bem vindo ao meu GITHUB
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinnnQ145&theme=great-gatsby)](https://github.com/FernandinnnQ145/github-readme-stats)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=FernandinnnQ145&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinnnQ145&layout=compact&theme=great-gatsby)](https://github.com/FernandinnnQ145/github-readme-stats)
 
  <h2>👨‍💻 MINHAS ESPECIFICAÇÕES 👨‍💻</h2>
