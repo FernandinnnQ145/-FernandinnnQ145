@@ -1,5 +1,5 @@
 ## Olá, eu sou o Fernando Quatrochi
-![eu](https://github.com/FernandinnnQ145/FernandinnnQ145/assets/125310316/a7a2d869-b124-41b0-b868-c46de7d44ded)
+
 Seja Bem vindo ao meu GITHUB
 
 ![99's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FernandinnnQ145&bg_color=30,0000,FF5C01&title_color=fff&text_color=fff)
