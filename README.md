@@ -1,7 +1,10 @@
 ## Olá, eu sou o Fernando Quatrochi
 
-Seja Bem vindo ao meu GITHUB
 
+<div align="center">
+Seja Bem vindo ao meu GITHUB
+ 
+</div>
 
 <a href="https://github.com/FernandinnnQ145">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandinnnQ145&show_icons=true&icon_color=FF5C01&bg_color=2,000,FF5C01&title_color=fff&text_color=fff&border_color=000">
