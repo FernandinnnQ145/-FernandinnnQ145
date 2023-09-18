@@ -23,7 +23,7 @@ Seja Bem vindo ao meu GITHUB
           
           
   ##
- ![Snake animation](https://github.com/FernandinnnQ145/FernandinnnQ145/blob/output/github-contribution-grid-snake.svg)
+
  
 <div>
  
